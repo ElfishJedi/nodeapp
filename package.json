@@ -1,0 +1,15 @@
+{
+  "name": "@elfishjedi/nodeapp",
+  "version": "1.0.1",
+  "description": "simple website app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elfishjedi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "npm": "^11.2.0"
+  }
+}
